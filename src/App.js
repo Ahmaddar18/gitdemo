@@ -11,7 +11,7 @@ function App() {
         <marquee behavior="slide scroll alternate">
           <h2 style={{ color: "green" }}>Welcome to Git</h2>
         </marquee>
-        <h3>This is git test</h3>
+        <h3>I am making cahnges in my code</h3>
       </header>
     </div>
   );
